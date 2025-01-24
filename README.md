@@ -28,7 +28,7 @@ This program includes the following functionalities:
 
 ---
 
-## **How It Works**
+## **Interface**
 ### **1. Main Menu**
 The program starts by displaying a menu:
 ```text
@@ -41,7 +41,7 @@ Hello user, please select what you want to convert:
 Step 1: Clone the Repository
   Clone the project repository from GitHub
   ```bash
-git clone https://github.com/Burhanali2211/Measurement-Converter.git
+git clone https://github.com/Burhanali2211/Measurement_Converter.git
 cd Measurement-Converter
 ```
 
