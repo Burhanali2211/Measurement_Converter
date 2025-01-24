@@ -1,0 +1,16 @@
+going to create a converter calculator
+
+here is the things it will include
+
+1 a menu:
+    in which the user will select what he want to do km to meter, meter to cm or liter to ml or kilogram to gram , gram to pound
+
+2 after this the program will go to one of the functions that are above and then it will start that operations
+
+3 Every function will have its own calculation like 1 km is equal to 1000 meter and so on
+
+in each function there will be:
+        an input field where the user will enter the value 
+        taking that variables name it will store in another variable where 
+        it will be multiplied by its value like 1* 1000 etc etc
+        then that will go directly into the if else statement 
